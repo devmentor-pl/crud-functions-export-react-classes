@@ -1,0 +1,19 @@
+{
+  "kittens": [
+      {
+          "id": 1,
+          "name": "Gloria",
+          "age": "2 months"
+      },
+      {
+          "id": 2,
+          "name": "Gutek",
+          "lastName": "3 months"
+      },
+      {
+          "id": 3,
+          "name": "Teofil",
+          "lastName": "6 months"
+      }
+  ]
+}
