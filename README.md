@@ -1,5 +1,7 @@
 # crud-functions-export-react-classes
 
+*Jest to kontynuacja artykułu [CRUD w osobnym pliku – lepszy kod dla API](https://devmentor.pl/b/crud-w-osobnym-pliku-lepszy-kod-dla-api) z przykładami komponentów klasowych Reacta*
+
 Mamy już provider: `catFactsProvider.js`, z którego importujemy pojedyncze funkcje do kontaktu z API.
 
 Teraz znów chcemy jedynie wyświetlić użytkownikowi randomową ciekawostkę, potrzebujemy więc funkcji `get()` w pliku [App.js](./App.js). Wystarczy, że zaimportujemy ją z pliku catFactsProvider.js:
